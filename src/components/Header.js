@@ -23,15 +23,15 @@ const Header = () => {
 
         <div className="bott">
           <div className="social">
-            <div className="fb">
-              <Fb style={{ fontSize: "30px" }} />
-            </div>
-            <div className="linked">
-              <Linkedin style={{ fontSize: "30px" }} />
-            </div>
-            <div style={{ fontSize: "30px" }} className="whatsupp">
+            <a href="https://www.facebook.com/bibus.dianiskova/" target="_blank" className="fb">
+              <Fb />
+            </a>
+            <a href="https://www.linkedin.com/in/bibiana-dianiskova-9ba920141/" target="_blank" className="ln">
+              <Linkedin />
+            </a>
+            <a href="https://api.whatsapp.com/send?phone=07874161760" target="_blank" className="wht">
               <Whatsupp />
-            </div>
+            </a>
           </div>
           <div className="location">
             <p>London Uk</p>
