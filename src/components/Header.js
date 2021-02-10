@@ -1,5 +1,5 @@
 import React from "react";
-import avatar from "../avatar/IMG_6026.jpeg";
+import avatar from "../avatar/this.jpeg";
 // import fb1 from "../svg/facebook-square-brands.svg";
 // import linkedin1 from "../svg/linkedin-in-brands.svg";
 import "../sass/header.scss";
