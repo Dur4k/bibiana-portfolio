@@ -17,7 +17,7 @@ const Portfolio = () => {
           pic={"https://keiseimagazine.com/wp-content/uploads/squalane-min.jpg"}
           main="Ingredient Highlight: Squalane"
           link="https://keiseimagazine.com/ingredient-highlight-squalane/?fbclid=IwAR3TX6OrgRMv7_zwl-XrnClTQJAiOTk_BLjfNOtFAjKlakxu2nH7MN1i9ik"
-          text="Most of us girls try to get our skin to look its healthiest and most radiant it can get! And we would do absolutely everything to have a good skin day every day, right? I am sure that the skincare products you use contain some vitamins or skin supplements. However, have you ever wondered if you can achieve your best skin from the inside out? There is only so much you can treat with topicals, so you should definitely consider taking care of your skin in a more systematic way. "
+          text="In beauty industry where everything is magical and ever changing, it might be difficult to spot trends that are really worth a try! However, let me highlight an ingredient which has proven to be really effective and popular at the moment: Squalane!"
         />
         <Element
           pic={pic1}
@@ -47,20 +47,20 @@ const Portfolio = () => {
         <Element
           pic={pic4}
           main="How To Turn 2020 Into A Positive Memory"
-          link=""
+          link="https://keiseimagazine.com/how-to-turn-2020-into-a-positive-memory/?fbclid=IwAR2tUTVPmlyqtvWTfNLDDX6vbQs9rMZXqhvfbCK4iOFgyZXDq0eFWBrxDwc"
           text="It is undeniable that the current state of our world and our planet is in a decline. We only have one planet to live on and we depend on it to make us healthy. However, mplastic waste, and climate change are only some of the rising factors impacting our planet. "
         />
         <Element
           pic={pic5}
           main="5 Habits You Need To Adopt In 2021"
-          link=""
+          link="https://keiseimagazine.com/5-habits-you-need-to-adopt-in-2021/?fbclid=IwAR1X8BwEROfHyEZQGBn5t_06BQUXNDGQrcwVnO8P_EyQBXJUrIxHb_xs5UQ"
           text="Every time, at the beginning of a new year we tend to make a mental or an actual list of our new year’s resolutions. And each year we feel extra motivated to be better, smarter, healthier, more outgoing, less lazy and the list could go on and on and on.However, these resolutions often get forgotten within our busy lives and we often eventually end up saying “Maybe I’ll start and do that next year”"
         />
         <Element
           pic={"https://keiseimagazine.com/wp-content/uploads/Gift-guide.jpeg"}
           main="The Pampering Christmas Gift Guide"
           link="https://keiseimagazine.com/the-pampering-christmas-gift-guide/"
-          text="t is that amazing time of the year again when Christmas is near and the holiday season is upon us. This year feels really special as we all might need extra cheer in our lives. Even though the Christmas time can become quite stressful, it is the best and the most joyful time spent surrounded by our nearest friends and family. To take some of the stress away, we have curated a KeiSei approved pampering gift guide."
+          text="It is that amazing time of the year again when Christmas is near and the holiday season is upon us. This year feels really special as we all might need extra cheer in our lives. Even though the Christmas time can become quite stressful, it is the best and the most joyful time spent surrounded by our nearest friends and family. To take some of the stress away, we have curated a KeiSei approved pampering gift guide."
         />
         <Element
           pic={"https://keiseimagazine.com/wp-content/uploads/1-min.jpg"}
