@@ -4,17 +4,21 @@ const AboutText = () => {
   return (
     <div className="txt">
       <p>
-        [PLEASE NOTE my clippings are in sections but are not in date order; there are pieces from different time periods for you to enjoy throughout,
-        from 2015 right up until the current date in 2021. They are also just a snippet of my work - please email me if you would like to see other
-        samplings, of which there are many, many more!]
+        I am a hard-working individual passionate about the beauty and wellness industry. I am fully aware of the beauty industry landscape including
+        trends, brands, influencers, journalists and founders within it.
       </p>
       <br />
+      <p>I have a first-class Bachelor’s degree in Marketing from Middlesex University London.</p>
       <p>
-        I have been a freelance writer and editor for over two years now, and have written for some of the most esteemed publications in the UK (and
-        worldwide), from Refinery29 to Conde Nast Traveller, Coveteur to Dazed.
+        I have been committed to working within beauty and wellness industry. My prior experiences include working on a business development of a
+        startup cosmetics company and also marketing and customer relations role for a wellness company.
       </p>
-      I am currently a regular beauty contributor to Bustle UK, as well as The Mail on Sunday's You Magazine, where I cover everything from fashion to
-      lifestyle online.
+      <br />
+      <p>I am also a beauty and lifestyle contributor editor at KeiSei Magazine. </p>
+      <br />
+      <p>
+        For any inquires please email me at: <a href="mailto:bibiana.dianiskova@gmail.com">bibiana.dianiskova@gmail.com</a>
+      </p>
     </div>
   );
 };

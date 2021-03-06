@@ -14,11 +14,18 @@ const Portfolio = () => {
       <div className="portfolio-text">Portfolio</div>
       <div className="grid">
         <Element
+          pic={"https://keiseimagazine.com/wp-content/uploads/squalane-min.jpg"}
+          main="Ingredient Highlight: Squalane"
+          link="https://keiseimagazine.com/ingredient-highlight-squalane/?fbclid=IwAR3TX6OrgRMv7_zwl-XrnClTQJAiOTk_BLjfNOtFAjKlakxu2nH7MN1i9ik"
+          text="Most of us girls try to get our skin to look its healthiest and most radiant it can get! And we would do absolutely everything to have a good skin day every day, right? I am sure that the skincare products you use contain some vitamins or skin supplements. However, have you ever wondered if you can achieve your best skin from the inside out? There is only so much you can treat with topicals, so you should definitely consider taking care of your skin in a more systematic way. "
+        />
+        <Element
           pic={pic1}
           main="Glow From The Inside Out, Best Supplements For Your Skin"
           link="https://keiseimagazine.com/the-best-supplements-for-your-skin/"
           text="Most of us girls try to get our skin to look its healthiest and most radiant it can get! And we would do absolutely everything to have a good skin day every day, right? I am sure that the skincare products you use contain some vitamins or skin supplements. However, have you ever wondered if you can achieve your best skin from the inside out? There is only so much you can treat with topicals, so you should definitely consider taking care of your skin in a more systematic way. "
         />
+
         <Element
           pic={pic3}
           main="The Effects Of Sugar On Your Mind, Skin And Body"
@@ -30,6 +37,12 @@ const Portfolio = () => {
           main="A Guide To Prevent And Get Rid Of ‘Maskne’"
           link="https://keiseimagazine.com/a-guide-to-prevent-and-get-rid-of-maskne/"
           text="I think it is safe to say that with the Covid19 not going away any time soon we are all wearing  face masks for a large part of our days. It is completely necessary in protecting ourselves and the others at the moment. However, it may get very troublesome especially if your skin is suffering underneath. Are you experiencing an irritation and breakouts around your chin and lower cheeks area? The face mask might be exactly what is causing it!"
+        />
+        <Element
+          pic={"https://keiseimagazine.com/wp-content/uploads/by-freestocks-min.jpeg"}
+          main="March Book Club: Get Lost Inside The Stories"
+          link="https://keiseimagazine.com/march-book-club-get-lost-inside-the-stories/?fbclid=IwAR0DZgtOirrBaLXxnSYrL0my2gYPW_YSrfCavnMEEzEjud8IVCj1mGBMUpw"
+          text="The spring is fast approaching, the sun’s getting warmer and the days will start being longer which makes us all feel like better days are coming. There is a light at the end of the tunnel, and the end of lockdown is just around the corner!"
         />
         <Element
           pic={pic4}
