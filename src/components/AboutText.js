@@ -1,8 +1,22 @@
 import React from "react";
 import "../sass/text.scss";
+import { motion } from "framer-motion";
+
 const AboutText = () => {
+  const fadeImg = {
+    hidden: {
+      opacity: 0,
+    },
+    visible: {
+      opacity: 1,
+      transition: {
+        duration: 1.9,
+        type: "Magic",
+      },
+    },
+  };
   return (
-    <div className="txt">
+    <motion.div variants={fadeImg} initial="hidden" animate="visible" className="txt">
       <p>
         I am a hard-working individual passionate about the beauty and wellness industry. I am fully aware of the beauty industry landscape including
         trends, brands, influencers, journalists and founders within it.
@@ -19,7 +33,7 @@ const AboutText = () => {
       <p>
         For any inquires please email me at: <a href="mailto:bibiana.dianiskova@gmail.com">bibiana.dianiskova@gmail.com</a>
       </p>
-    </div>
+    </motion.div>
   );
 };
 
