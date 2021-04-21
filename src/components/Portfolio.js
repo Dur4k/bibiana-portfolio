@@ -1,11 +1,11 @@
 import React from "react";
 import "../sass/portfolio.scss";
 import pic1 from "../picture/Nicolas-Solerieu-min.jpg";
-import pic2 from "../picture/bookclub.jpg";
+// import pic2 from "../picture/bookclub.jpg";
 import pic3 from "../picture/sugar.png";
 import pic4 from "../picture/2020.jpg";
 import pic5 from "../picture/5habbits.jpg";
-import pic6 from "../picture/bookclubD.jpg";
+// import pic6 from "../picture/bookclubD.jpg";
 import Element from "../components/Element.js";
 
 const Portfolio = () => {
