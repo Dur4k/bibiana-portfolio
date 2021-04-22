@@ -41,10 +41,6 @@ const Header = () => {
     },
     toCenter: {
       x: 0,
-      // transition: {
-      //   duration: 1,
-      //   type: "spring",
-      // },
     },
   };
 
@@ -126,7 +122,7 @@ const Header = () => {
               initial="fromRight"
               animate="toCenter"
             >
-              London Uk
+              London, UK
             </motion.p>
           </div>
         </div>

@@ -7,7 +7,6 @@ const AboutText = () => {
     animationTwo: {
       x: [-700, -900, -43],
       y: [-700, -630, -230, -28],
-      // rotateX: [45, 20, 5, 45],
       rotateZ: [-200, -100, 50, 298],
       transition: { delay: 3, duration: 4 },
     },
