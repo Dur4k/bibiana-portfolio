@@ -1,8 +1,28 @@
 .txt {
+  position: relative;
   font-family: "Oxygen", sans-serif !important;
   font-size: 20px;
   margin: 50px 250px 30px 200px;
+
+  .flower1 {
+    position: absolute;
+    width: 490px;
+    height: 490px;
+    right: 0;
+    bottom: 0;
+    z-index: 99;
+  }
+  .bee1 {
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    right: 0;
+    bottom: 0;
+    z-index: 999;
+  }
 }
+
+///////svg////
 
 @media only screen and (max-width: 815px) {
   .txt {
